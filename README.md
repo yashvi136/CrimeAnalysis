@@ -1,2 +1,35 @@
 # CrimeAnalysis
 This project leverages Tableau to create interactive dashboards for crime data analysis, helping law enforcement identify patterns, trends, and hotspots. It enhances data visualization, storytelling, and analytical skills, enabling data-driven decision-making for crime prevention and public safety.
+
+# Scenario
+Crime analysis is important for law-and-order maintenance at any place. It helps the police department and law enforcement agencies to identify patterns of crime, which is crucial for the effective planning of a crime prevention program. You are a data analyst in the research wing of the police department, and you are reached out to help the department analyze the data of past criminal activities. The purpose of crime
+data analysis is to support the operations of the police department, like criminal investigation, apprehension, prosecution, and development of crime prevention and reduction strategies.
+
+# Task
+As a data analyst, to keep the police department and the city updated on thecstatistics of crime events, you are tasked to create a dashboard or story using Tableau for the communication website and pay attention to data storytelling.
+
+# Action
+1. Overall Crime Statistics Dashboard:
+a. For personnel and resource management, the department needs to understand the count and types of crimes reported across the city. Mark the locations on a geo-map highlighting the locations with recent
+criminal history.
+b. Identify the most common criminal incidents reported
+c. In this introductory dashboard, include a live crime feed to exhibit the total number of crimes reported to date for the current year and the most recently reported crimes with their time and locations
+
+2. Time Period Analysis Dashboard:
+Along with locations, the study of crime statistics across time statistics is also crucial for understanding the patterns and planning those preventive strategies.
+a. Study distribution count of crime incidents across different time periods, such as day of the week or hour
+b. Further, explore the percentage of incident reporting for several time blocks (morning, afternoon, evening, and night)
+
+3. Trend Analysis Dashboard:
+a. Create a dashboard to study the change in crime rate over different years
+b. Compare the change in the incident reporting over the years for the same date and time
+
+4. Comparative Analysis:
+a. Study the distribution of incidents reported where an arrest was made vs. not
+b. Identify what percentage of the reported incidents under each incident category are severe
+c. To make the dashboard interactive, provide filters for incident type and location in these dashboards for a granular study
+
+# Objective
+The objective of this project is to leverage Tableau to create interactive dashboards that analyze crime data, enabling law enforcement agencies to identify crime patterns, trends, and hotspots for effective decision-making. By employing techniques such as geospatial mapping, time-series analysis, and comparative analytics, the project aims to enhance crime prevention strategies, optimize resource allocation, and improve public safety through data-driven insights.
+
+# Dataset
