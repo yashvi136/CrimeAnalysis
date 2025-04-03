@@ -39,5 +39,17 @@ c. To make the dashboard interactive, provide filters for incident type and loca
 7. Crime Trend Visualization – Analyze historical patterns to predict future crime occurrences.
 
 # Dashboards
+1. Overall Crime Statistics Dashboard
 ![image](https://github.com/user-attachments/assets/3148a3af-36f2-4303-b39d-5763983fe273)
+
+
+2. Time Period Analysis Dashboard
+   ![image](https://github.com/user-attachments/assets/af5cc22b-2397-4f4b-be8d-d7e0fbf61811)
+
+3. Trend Analysis Dashboard
+   ![image](https://github.com/user-attachments/assets/c1990a3e-c6a9-48d0-9849-74c1ec61c2ac)
+
+5. Comparative Analysis Dashboard
+   ![image](https://github.com/user-attachments/assets/0480fbe2-97a5-4c6a-a0e1-85837936434a)
+
 
