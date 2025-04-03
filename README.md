@@ -33,12 +33,9 @@ c. To make the dashboard interactive, provide filters for incident type and loca
 The objective of this project is to leverage Tableau to create interactive dashboards that analyze crime data, enabling law enforcement agencies to identify crime patterns, trends, and hotspots for effective decision-making. By employing techniques such as geospatial mapping, time-series analysis, and comparative analytics, the project aims to enhance crime prevention strategies, optimize resource allocation, and improve public safety through data-driven insights.
 
 # Key Features of the Crime Analysis Project
-1.Interactive Dashboards – Create dynamic, user-friendly dashboards for real-time crime analysis.
-
+1.Interactive Dashboards – Create dynamic, user-friendly dashboards for real-time crime analysis.  "/n"
 2.Geospatial Mapping – Visualize crime hotspots using maps for location-based insights.
-
 3.Time-Series Analysis – Identify crime trends over different time periods (daily, weekly, yearly).
-
 4.Comparative Analysis – Compare crime rates based on arrest status, severity, and categories.
 5.Live Crime Feed – Display the most recent crime reports and updates.
 6.Custom Filters – Enable filtering by crime type, location, and time for in-depth study.
