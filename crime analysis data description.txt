@@ -1,0 +1,96 @@
+*Dr_No.  :  Same as Case No.
+
+Date Rptd : Date when the crime is reported to the police station
+
+Date Occur : Date when the crime were actually take place
+
+Time Occur : Time when the crime were occurred
+
+Area : represents different police divisions 
+# Note :  area can vary depending on whether you are analyzing by Beat, Ward, or Community Area in crime analysis.
+
+Area Name : Where the crime is occurred
+
+Rpt_Dist No : small area within a police division used to track where crimes happen
+
+Part 1-2 : Part 1 Crimes (Serious crimes) include homicide, robbery, assault, burglary, theft, arson, etc.
+                Part 2 Crimes (Less serious offenses) include fraud, vandalism, drug offenses, disorderly conduct, etc.
+
+Crm Cd : Crime code in Numeric Value
+
+Crm Cd Desc : description of the crime associated
+
+MO codes : stand for "Modus Operandi Codes," which describe how a crime was committed.
+                1822 → Possible code for Breaking and Entering
+                1402 → Possible code for Use of Firearm in Crime
+                0344 → Possible code for Snatch Theft or Pickpocketing
+
+Vict Age :  Age of the victim
+
+Vict Sex : Gender of the victim
+
+Vict Descent  :  refers to the ethnic or racial background of the victim in crime reports.
+                        X → Unknown or Other
+			O → Other (not categorized in main groups)
+			W → White (Caucasian)
+			H → Hispanic (Latino)
+
+Premise Cd : represents the location type where the crime occurred.
+		   101 → Residence/House
+		   201 → Bank/Financial Institution
+		   503 → Parking Lot/Garage
+		   701 → Restaurant
+
+# Note :  Premises Codes (Premise Cd) can vary depending on the dataset, law enforcement agency, or jurisdiction. Different police departments may use different codes for locations, and these codes can also be updated or modified over time.
+
+Premise Desc : Description of premises code
+
+Weapon Used Cd : Code of weapon used in crime varies for specific department 
+* used official documentation where to find official documentation
+
+Weapon Desc : provides a detailed description of the weapon corresponding to that code.
+
+Status :  represents the current state of the case, investigation, or incident
+	      AA	Arrest Made
+	      AB	Arrest Made by Other Agency
+	      AO	Adult Other (Non-Arrest Outcome)
+	      IC	Investigation Continuing
+	      IN	No Further Investigation
+	      JA	Juvenile Arrest
+	      JO	Juvenile Other
+
+Status Desc : provides a textual explanation of the Status Code
+# Note : different police departments or jurisdictions might use slightly different status codes and descriptions.
+
+Crm Cd 1,2,3 : primary for 1 others are secondary crime classification code 
+
+Location : Address format
+
+Cross Street : nearby intersecting street
+
+Lat : latitude
+
+Long : Longitude
+
+UCR Code (Uniform Crime Reporting Code) : A nationally standardized code used by the FBI for crime reporting across all law
+enforcement agencies. Its like a category.
+
+Primary Type : refers to the broad classification of a crime based on its nature
+                         Example : Primary Type: THEFT
+                                        - Can include Part 1 Crime (Grand Theft) or Part 2 Crime (Petty Theft).
+
+Beat : refers to a specific geographic area assigned to a police officer or unit for patrolling and law enforcement
+          Example : Beat 121 might have a high rate of vehicle thefts, prompting increased patrolling.
+
+Ward : divide the city into smaller parts for better organization. used for elections
+            Example :  In Surat City - Varachha Ward, Adajan Ward
+
+Community Area : A larger planning unit (used for city management).
+
+NIC Code : NIC Code (National Industrial Classification Code) is a system used to classify businesses and industries in India.
+                 NIC Code  	Industry Description
+                 01111	        Growing of wheat
+                 45201             Construction of buildings
+                 62011	        Software development services
+                 55101	        Hotels and resorts
+
